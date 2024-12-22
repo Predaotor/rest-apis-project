@@ -1,0 +1,13 @@
+flask 
+flask_sqlalchemy 
+marshmallow
+flask-smorest
+python-dotenv 
+sqlalchemy 
+flask-jwt-extended 
+passlib
+redis 
+flask-migrate
+psycopg2
+gunicorn 
+datetime
